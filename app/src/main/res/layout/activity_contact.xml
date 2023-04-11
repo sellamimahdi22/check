@@ -12,7 +12,29 @@
         android:id="@+id/Tex1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="100px"
         android:text="Contact"
         android:textSize="40px" />
+    <EditText
+        android:id="@+id/Tex3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="search contact"
+        android:layout_marginTop="20px"
+        android:background="#D5D0D0"
+
+        android:textSize="40px"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:id="@+id/Tex2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="add new Contact"
+        android:layout_marginTop="1400px"
+        android:textSize="40px"
+        android:textColor="@color/purple_700"
+        />
+
 
 </LinearLayout>
